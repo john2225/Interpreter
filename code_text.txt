@@ -1,0 +1,8 @@
+var a = 24.5
+var b = 6
+var c = 67
+b = "hello"
+a = 45
+print c
+print a
+print b
